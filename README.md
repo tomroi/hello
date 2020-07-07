@@ -1,5 +1,8 @@
 # hello
 Første repo
 Her legges det inn en tekst / programgkode
-som skal benyttes
+som skal og endre litt på en 
 og samkjøres
+
+Man må jo seg hør og bør 
+legge til et par linjer
