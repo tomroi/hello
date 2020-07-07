@@ -1,9 +1,6 @@
 # hello
-<<<<<<< Updated upstream
-Første repo, tredje tagning
-=======
-Første repo, fjerde tagning
->>>>>>> Stashed changes
+Første repo, femte tagning, AndreAtom
+>>>>>>>
 Her legges det inn en tekst / programgkode
 som skal og endre litt på en
 og samkjøres
@@ -14,7 +11,6 @@ Man må jo seg hør og bør
 legge til et par linjer
 
 For tredje gang endres teksten
-<<<<<<< Updated upstream
-=======
+
 ... og dermed var det fire
->>>>>>> Stashed changes
+...og sågar fem
